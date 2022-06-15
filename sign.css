@@ -1,0 +1,24 @@
+/* sign in section css style */
+.sign-forget a{
+    color: #777;
+    text-decoration: none;
+    transition: .4s;
+}
+.sign-forget a:hover{
+    color: #e73c3e;
+}
+.sign-in-item{}
+.sign-in-item span{
+    color: #777;
+}
+.sign-in-item span a{
+    text-decoration: none;
+    color: #e73c3e;
+}
+
+.sign-in-form input{
+    padding: 15px 6px;
+}
+.form-check-input{
+    padding:0 !important;
+}

@@ -1,0 +1,19 @@
+.default-breadcumb-team{
+    background: url(https://templates.envytheme.com/finix/default/assets/img/page-title/bg-2.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center 28%;
+    background-attachment: fixed;
+    padding: 143px 0;
+    position: relative;
+    z-index: 1;
+}
+.default-breadcumb-team::before{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(255,255,255,.7);
+    z-index: -1;
+}

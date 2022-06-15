@@ -1,0 +1,21 @@
+.funding-item{
+    box-sizing: border-box;
+    max-width: 70%;
+}
+.funding-item span {
+    color: #e73c3e;
+    font-size: 43px;
+    margin-bottom: 10px;
+    display: block;
+  }
+.funding-item h4{
+    line-height: 1.4em;
+    font-weight: 500;
+}
+.form-check-label a{
+    color: #e73c3e;
+    text-decoration: none;
+}
+.form-check-label a:hover{
+    color: #e73c3e;
+}

@@ -1,0 +1,22 @@
+/* loan calculator section css style */
+.loan-cal{
+    margin: 100px 0;
+}
+.loan-cal-body{
+    padding: 50px 16px;
+    background: #e73c3e;
+    color: #fff;
+}
+/* loan input */
+.loan-input{
+    border: 1px solid #f39e9f !important;
+    height: 43px;
+    width: 100%;
+    background-color: #e73c3e;
+    color: #ddd;
+}
+.loan-input:focus{
+    background-color: #e73c3e;
+    color: #ddd;
+    outline: none !important;
+}

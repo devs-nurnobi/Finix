@@ -1,0 +1,30 @@
+.sec-bgc{
+    background-color: #f4f5fe;
+    border-radius: 8px;
+}
+.project-info{}
+.project-info h6{
+    font-weight: bold;
+}
+.project-info p{
+    color: #606060;
+}
+.project-info ul{
+    padding-left: 0;
+}
+.project-info ul li{
+    list-style: none;
+    display: inline-block;
+}
+.project-info ul li a{
+    font-size: 16px;
+    color: #606060;
+    display: block;
+    margin: 0 3px ;
+    transition: .3s;
+}
+.project-info ul li a:hover{
+    color: #e73c3e;
+}
+
+

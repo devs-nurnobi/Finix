@@ -1,0 +1,63 @@
+.default-breadcumb-loans{
+    background: url(https://templates.envytheme.com/finix/default/assets/img/page-title/bg-7.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center 28%;
+    background-attachment: fixed;
+    padding: 160px 0;
+    position: relative;
+    z-index: 1;
+}
+.default-breadcumb-loans::before{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(255,255,255,.6);
+    z-index: -1;
+}
+
+
+/* process section css style */
+.process{}
+.process-item{
+    box-sizing: border-box;
+}
+
+.process-number{
+    position: relative;
+}
+.process-number span {
+    position: relative;
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    line-height: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 29px 0px rgba(102, 102, 102, 0.2);
+    z-index: 1;
+  }
+  .process-number strong {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: #fad8d8;
+    font-size: 65px;
+    font-weight: 600;
+}
+
+
+
+
+
+.process-item h4{
+    padding: 0 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
